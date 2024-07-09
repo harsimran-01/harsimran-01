@@ -6,7 +6,7 @@ About Me
 🐍 Proficient in Python programming language.
 🎯 Aspiring to become a Software Engineer and contribute to innovative projects.
 🌟 Committed to continuous learning and self-improvement.
-🎂 17 years old, with a passion for technology and problem-solving.
+🎂 18 years old, with a passion for technology and problem-solving.
 
 Projects
 I am excited to showcase my projects, which demonstrate my skills and enthusiasm for coding. Stay tuned for some exciting and creative software projects that I'm currently working on.
