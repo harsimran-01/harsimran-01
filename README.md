@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsimran-01&label=Profile%20views&color=0e75b6&style=flat" alt="harsimran-01" /> </p>
 
-- 🔭 I’m currently working on **Finance Tracker**
+- 🔭 I’m currently working on **DSA Visualizer**
 
 - 🌱 I’m currently learning **Data Structures In Java,**
 
