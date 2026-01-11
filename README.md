@@ -84,11 +84,8 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsimran-01&show_icons=true&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsimran-01&hide_border=true&theme=default" />
+  <img src="<img width="1142" height="277" alt="image" src="https://github.com/user-attachments/assets/0a136294-e2db-4fa0-9ae1-5876663fca58" />
+" />
 </p>
 
 ---
