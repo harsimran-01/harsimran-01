@@ -84,9 +84,9 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 </div>
 
 <p align="center">
-  <img src="<img width="1142" height="277" alt="image" src="https://github.com/user-attachments/assets/0a136294-e2db-4fa0-9ae1-5876663fca58" />
-" />
+<img width="1142" height="277" alt="Screenshot 2026-01-11 164401" src="https://github.com/user-attachments/assets/776335e0-391c-4870-9306-86c8497f26ba" />
 </p>
+
 
 ---
 
