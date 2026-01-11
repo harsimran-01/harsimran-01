@@ -1,52 +1,101 @@
-![banner](https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Harsimran%20Kaur&fontSize=38&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=140&section=header&text=Harsimran%20Kaur&fontSize=34&fontColor=ffffff" />
+</p>
 
-## About
+## About Me
 
-I am a **Software Engineer in training** with a strong focus on **Data Structures & Algorithms**, **Java**, and **Full Stack / Android development**.  
-I enjoy solving complex problems, writing clean code, and building scalable applications.
+I am a software engineering aspirant with a strong focus on **Data Structures & Algorithms**, **Java**, and **problem-solving**.  
+I believe in mastering fundamentals, writing clean code, and building systems that scale.
 
-- Currently working on **DSA Visualizer**
-- Focused on **DSA + Core CS fundamentals**
-- Interested in **Backend, Android, and Problem-Solving roles**
-
-📫 **Email:** harsimrankaur68694@gmail.com  
-📄 **Resume:** [View Resume](https://drive.google.com/file/d/19eyJum6PWUioNyZEnTcdW_vt6aiYQ0dd/view)
+I enjoy solving challenging problems, exploring backend systems, and developing practical applications that translate theory into real-world impact.
 
 ---
 
-## Skills
+## Current Focus
 
-**Languages:** Java, C++, Python, JavaScript  
-**Core CS:** Data Structures, Algorithms, OOP  
-**Development:** Android, React, Node.js  
-**Databases:** MySQL, PostgreSQL, MongoDB  
+- Strengthening DSA and algorithmic thinking  
+- Consistent problem solving on LeetCode  
+- Building scalable full-stack and Android applications  
+- Writing clean, maintainable, production-ready code  
 
 ---
 
-## DSA & Competitive Programming
+## Technical Stack
 
-- Strong foundation in **DSA**
-- Regular practice on **LeetCode, CodeChef, HackerRank**
-- Emphasis on **time & space optimization**
+**Languages**  
+Java • C++ • Python • JavaScript  
+
+**Core CS**  
+Data Structures • Algorithms • OOP • Complexity Analysis  
+
+**Development**  
+Android (Jetpack Compose) • React • Node.js • Express  
+
+**Databases**  
+MySQL • PostgreSQL • MongoDB • SQLite  
+
+**Tools**  
+Git • GitHub • Firebase • Linux • AWS (Basics)
+
+---
+
+## Problem Solving & DSA
+
+- Strong emphasis on **logic-first solutions**
+- Focus on **time and space optimization**
+- Solving problems from fundamentals, not patterns alone
 
 ### LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/LD4pWDI5nX?theme=light&font=Karma&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/LD4pWDI5nX?theme=light&font=Inter&ext=heatmap" />
+</p>
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsimran-01&show_icons=true&hide_title=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsimran-01&show_icons=true&hide_border=true" />
+</p>
 
----
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/harsimran-kaur-422778298/)
-- [LeetCode](https://leetcode.com/u/LD4pWDI5nX/)
-- [CodeChef](https://www.codechef.com/users/simmi_0121)
-- [HackerRank](https://www.hackerrank.com/profile/harsimrankaurdh1)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsimran-01&hide_border=true" />
+</p>
 
 ---
 
-> *Consistency beats talent when talent doesn’t work consistently.*
+## Selected Projects
+
+- **DSA Repository (Java)**  
+  Concept-wise implementations with edge case handling and optimization
+
+- **Android Applications**  
+  Utility-based apps focusing on clean UI and scalable architecture
+
+- **Full Stack Systems**  
+  Backend-driven applications using MERN stack
+
+---
+
+## Learning Philosophy
+
+> “Strong fundamentals outperform shortcuts.”
+
+- Focus on understanding over memorization  
+- Analyze trade-offs and complexity  
+- Build systems from first principles  
+- Stay consistent and disciplined  
+
+---
+
+## Contact
+
+- **Email:** harsimrankaur68694@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/harsimran-kaur-422778298/  
+- **Resume:** https://drive.google.com/file/d/19eyJum6PWUioNyZEnTcdW_vt6aiYQ0dd/view  
+
+---
+
+<p align="center">
+  <i>Consistency beats intensity.</i>
+</p>
