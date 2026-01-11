@@ -1,90 +1,52 @@
-<h1 align="center">Hi 👋, I'm Harsimran Kaur</h1>
-<h3 align="center">Full Stack & Android Application Developer | Java | DSA Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsimran-01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
 ![banner](https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Harsimran%20Kaur&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
+## About
 
-## 🌟 About Me
+I am a **Software Engineer in training** with a strong focus on **Data Structures & Algorithms**, **Java**, and **Full Stack / Android development**.  
+I enjoy solving complex problems, writing clean code, and building scalable applications.
 
-- 🔭 Currently working on **DSA Visualizer**
-- 🌱 Learning **Data Structures & Algorithms in Java**
-- 💬 Ask me about **DSA, Full Stack Development & Android**
-- 📫 Reach me at **harsimrankaur68694@gmail.com**
-- 📄 View my resume  
-  👉 [Resume Link](https://drive.google.com/file/d/19eyJum6PWUioNyZEnTcdW_vt6aiYQ0dd/view?usp=sharing)
+- Currently working on **DSA Visualizer**
+- Focused on **DSA + Core CS fundamentals**
+- Interested in **Backend, Android, and Problem-Solving roles**
 
-I’m passionate about building **scalable applications**, writing **clean code**, and continuously improving my **problem-solving skills** through consistent DSA practice.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsimran-kaur-422778298/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/LD4pWDI5nX/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/simmi_0121" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/harsimrankaurdh1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-  </a>
-</p>
+📫 **Email:** harsimrankaur68694@gmail.com  
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/19eyJum6PWUioNyZEnTcdW_vt6aiYQ0dd/view)
 
 ---
 
-## 🛠️ Languages & Tools
+## Skills
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
+**Languages:** Java, C++, Python, JavaScript  
+**Core CS:** Data Structures, Algorithms, OOP  
+**Development:** Android, React, Node.js  
+**Databases:** MySQL, PostgreSQL, MongoDB  
 
 ---
 
-## 📊 GitHub Stats
+## DSA & Competitive Programming
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsimran-01&show_icons=true&theme=react&hide_border=true" />
-</p>
+- Strong foundation in **DSA**
+- Regular practice on **LeetCode, CodeChef, HackerRank**
+- Emphasis on **time & space optimization**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsimran-01&theme=react&hide_border=true" />
-</p>
-
----
-
-## ✨ Philosophy
-
-> **“Consistency beats talent when talent doesn’t work consistently.”**
-
-I believe in **learning by building**, improving every day, and writing code that speaks for itself.
+### LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/LD4pWDI5nX?theme=light&font=Karma&ext=heatmap)
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories and connect with me!*
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsimran-01&show_icons=true&hide_title=true&hide_border=true)
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/harsimran-kaur-422778298/)
+- [LeetCode](https://leetcode.com/u/LD4pWDI5nX/)
+- [CodeChef](https://www.codechef.com/users/simmi_0121)
+- [HackerRank](https://www.hackerrank.com/profile/harsimrankaurdh1)
+
+---
+
+> *Consistency beats talent when talent doesn’t work consistently.*
