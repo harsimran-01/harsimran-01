@@ -105,13 +105,28 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 
 <div align="center">
 
-## 📬 Contact
+## 📬 Let’s Connect
 
 </div>
 
-📧 **Email:** harsimrankaur68694@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/harsimrankaur0121 
-📄 **Resume:**https://drive.google.com/file/d/1io-IuZSkfQCCdAVdd8zuy7P71OB1dkex/view?usp=sharing
+<p align="center">
+  <a href="mailto:harsimrankaur68694@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harsimrankaur68694%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsimrankaur0121">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsimran%20Kaur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1io-IuZSkfQCCdAVdd8zuy7P71OB1dkex/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
