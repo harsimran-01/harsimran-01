@@ -6,6 +6,8 @@
 </p>
 
 ---
+![banner](https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Harsimran%20Kaur&fontSize=38&fontColor=ffffff&animation=fadeIn)
+
 
 ## 🌟 About Me
 
