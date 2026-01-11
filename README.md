@@ -88,26 +88,6 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 <img width="1142" height="277" alt="Screenshot 2026-01-11 164401" src="https://github.com/user-attachments/assets/776335e0-391c-4870-9306-86c8497f26ba" />
 </p>
 
-
----
-
-<div align="center">
-
-## 🏗️ Selected Projects
-
-</div>
-
-🔸 **DSA Repository (Java)**  
-Concept-wise implementations with edge-case handling and optimized logic
-
-🔸 **Android Applications**  
-Utility-based apps with clean UI and scalable architecture
-
-🔸 **Full-Stack Systems**  
-Backend-driven applications using the MERN stack
-
----
-
 <div align="center">
 
 ## 📈 Learning Philosophy
