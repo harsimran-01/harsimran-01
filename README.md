@@ -71,8 +71,9 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 ✔ Optimized solutions with complexity analysis  
 ✔ Focus on **fundamentals**, not shortcuts  
 
+## 📊 Leetcode Activity
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/LD4pWDI5nX?theme=light&font=Inter&ext=heatmap" />
+<img width="947" height="423" alt="Screenshot 2026-01-11 164622" src="https://github.com/user-attachments/assets/90785c04-0fb2-4e6d-86bb-b9546ced47c5" />
 </p>
 
 ---
