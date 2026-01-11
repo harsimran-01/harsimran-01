@@ -110,7 +110,7 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 </div>
 
 📧 **Email:** harsimrankaur68694@gmail.com  
-🔗 **LinkedIn:** [Profile](www.linkedin.com/in/harsimrankaur0121)  
+🔗 **LinkedIn:** [Profile]www.linkedin.com/in/harsimrankaur0121 
 📄 **Resume:** [View Resume](https://drive.google.com/file/d/19eyJum6PWUioNyZEnTcdW_vt6aiYQ0dd/view)
 
 ---
