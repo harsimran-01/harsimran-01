@@ -89,10 +89,9 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 ## 📬 Let’s Connect
 
 </div>
-
 <p align="center">
   <a href="https://simran-os-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Portfolio">
+    <strong>🌐 Visit My Portfolio</strong>
   </a>
 </p>
 
