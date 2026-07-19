@@ -90,7 +90,7 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 
 <p align="center">
   <a href="https://simran-os-portfolio.vercel.app/">
-    <img src="https://dummyimage.com/400x50/6C63FF/ffffff&text=🌐+VISIT+MY+PORTFOLIO" alt="Visit My Portfolio">
+    <img src="https://dummyimage.com/400x50/6C63FF/ffffff&text=VISIT+MY+PORTFOLIO" alt="Visit My Portfolio">
   </a>
 </p>
 
