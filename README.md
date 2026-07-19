@@ -71,25 +71,6 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 ✔ Optimized solutions with complexity analysis  
 ✔ Focus on **fundamentals**, not shortcuts  
 
-## 📊 Leetcode Activity
-<p align="center">
-<img width="947" height="423" alt="Screenshot 2026-01-11 164622" src="https://github.com/user-attachments/assets/90785c04-0fb2-4e6d-86bb-b9546ced47c5" />
-</p>
-
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-</div>
-
-<p align="center">
-<img width="1142" height="277" alt="Screenshot 2026-01-11 164401" src="https://github.com/user-attachments/assets/776335e0-391c-4870-9306-86c8497f26ba" />
-</p>
-
-<div align="center">
-
 ## 📈 Learning Philosophy
 
 </div>
@@ -108,6 +89,8 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 ## 📬 Let’s Connect
 
 </div>
+
+<p align="center"> <a href="[YOUR_PORTFOLIO_LINK](https://simran-os-portfolio.vercel.app/)"> <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </p>
 
 <p align="center">
   <a href="mailto:harsimrankaur68694@gmail.com">
