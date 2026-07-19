@@ -95,12 +95,6 @@ Git • GitHub • Firebase • Linux • AWS (Basics)
 </p>
 
 <p align="center">
-  <a href="https://simran-os-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-6C63FF?style=for-the-badge" alt="Visit My Portfolio" />
-  </a>
-</p>
-
-<p align="center">
   <a href="mailto:harsimrankaur68694@gmail.com">
     <img src="https://img.shields.io/badge/Email-harsimrankaur68694%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
